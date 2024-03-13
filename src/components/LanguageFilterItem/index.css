@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.items {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.button {
+  border: none;
+  height: 35px;
+  width: 100px;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.active-class-name {
+  border-radius: 20px;
+  border: 2px solid #0284c7;
+  color: #0284c7;
+}
